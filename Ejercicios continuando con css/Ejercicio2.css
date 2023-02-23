@@ -1,7 +1,10 @@
 .bloque2{
-    width: 500px;
-    overflow: hidden;
-    background-color: lightblue;
+moz-column-width:100px;
+webkit-column-width:100px; 
+column-width:100px;
+border-radius: 20px; 
+background-color:#ddd; 
+padding:10px;
 }
 .columna{
     width: 100px;

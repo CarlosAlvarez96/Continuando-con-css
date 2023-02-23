@@ -1,5 +1,8 @@
 .bloque1 {
-    column-count: 4;
-    background-color: lightblue;
-    padding: 20px;
+moz-column-count:4;
+webkit-column-count:4;
+column-count:4;
+border-radius: 20px;
+background-color:#ddd;
+width:600px; padding:10px;
 }
