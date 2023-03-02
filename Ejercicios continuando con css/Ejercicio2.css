@@ -1,6 +1,4 @@
-.bloque2{
-moz-column-width:100px;
-webkit-column-width:100px; 
+div {
 column-width:100px;
 border-radius: 20px; 
 background-color:#ddd; 

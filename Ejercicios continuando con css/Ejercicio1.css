@@ -1,6 +1,4 @@
-.bloque1 {
-moz-column-count:4;
-webkit-column-count:4;
+div {
 column-count:4;
 border-radius: 20px;
 background-color:#ddd;

@@ -1,7 +1,5 @@
-.bloque4 {
+div {
     border-radius: 20px;
-    moz-column-count:4;
-    webkit-column-count:4;
     column-count:4;
     border-radius: 20px;
     background-color:#ddd;

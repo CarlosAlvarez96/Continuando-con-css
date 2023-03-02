@@ -1,8 +1,12 @@
-.bloque12 {
+div {
     position: absolute;
-    top: 50%;
+    top: 10%;
     left: 50%;
-    transform: translate(-50%, -50%) scale(0.5) rotateY(45deg);
-  }
-  
-  
+    transform: scaleY(0.5) rotate(45deg)  ;
+    border-radius: 20px; 
+    background-color:#ddd; 
+    width:200px; 
+    padding:10px
+    
+}
+
